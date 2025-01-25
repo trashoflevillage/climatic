@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "io.github.trashoflevillage.climatic.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"MultiNoiseSamplerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
